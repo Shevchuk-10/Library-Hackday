@@ -81,5 +81,3 @@ If you have ideas, suggestions, or want to contribute to the library’s develop
 Thank you for using `hackday`!
 Be responsible and keep security first.
 
-```
-```

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="hackdaylib",
+    name="hackdaylibrary",
     version="0.1.0",
     description="Powerful ethical hacking Python library",
     author="Your Name",
