@@ -20,7 +20,7 @@
 ## Installation
 
 ```bash
-pip install hackday
+pip install hackdaylibrary
 ````
 
 ---
