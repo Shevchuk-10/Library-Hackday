@@ -1,0 +1,7 @@
+README.md
+setup.py
+hackday.egg-info/PKG-INFO
+hackday.egg-info/SOURCES.txt
+hackday.egg-info/dependency_links.txt
+hackday.egg-info/requires.txt
+hackday.egg-info/top_level.txt
